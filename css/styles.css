@@ -1,0 +1,98 @@
+body{
+    font: 14px/18px Arial, sans-serif;
+}
+.contact-form {
+    background-color: lightpink;
+    border: 1px solid blueviolet;
+    border-radius: 6px;
+    padding: 0   0   0   0;
+    width: 700px;
+    margin: 0 auto;
+}
+.form-row{
+    margin: 10px    10px   10px    30px;
+}
+.label{
+    display: block;
+    margin: 0    0   0    30px;
+    color: purple;
+    }
+.label-block {
+    display: block;
+    margin: 0    0   0    15px;
+    color: purple;
+}
+.header  {
+    text-align: center;
+    margin: 50px   50px  0    0;
+    color: purple;
+}
+.form-row input {
+    border: 1px solid blueviolet;
+    border-radius: 6px;
+    width: 600px;
+    height: 25px;
+    margin: 15px 0 10px 20px;
+}
+
+.fieldset   {
+    border: none;
+
+}
+
+.choose {
+    border: 1px solid blueviolet;
+    border-radius: 6px;
+    width: 600px;
+    margin: 10px 20px 10px 20px;
+}
+.buttons {
+    width: 100%;
+    display: inline-block;
+    text-align: right;
+    }
+
+.reset {
+    background-color: hotpink;
+    border: 1px solid blueviolet;
+    border-radius: 6px;
+    padding:    5px    20px;
+    margin: 20px    0   40px    20px;
+}
+.submit {
+    background-color: blueviolet;
+    border: 1px solid blueviolet;
+    border-radius: 6px;
+    padding: 5px      20px;
+    margin: 10px    45px   40px    10px;
+}
+.check-block {
+    margin: 10px    10px   10px    30px;
+    }
+.check-block input {
+    margin: 10px    10px   10px    10px;
+    color: black;
+ }
+
+.textarea   {
+    border: 1px solid blueviolet;
+    border-radius: 6px;
+    width: 600px;
+    margin: 15px    0  10px    15px;
+}
+.your-phone {
+    display: inline-block;
+    margin: 0  10px  10px  30px;
+
+}
+.phone  {
+    border: 1px solid blueviolet;
+    border-radius: 6px;
+    width: 600px;
+    height: 25px;
+    margin: 15px   10px  0  20px;
+
+
+
+
+}
